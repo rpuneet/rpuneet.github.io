@@ -1,4 +1,4 @@
-Pursuing BE in Information Technology at **Birla Institute of Technology, Mesra** (2017-2021)
+Pursuing BE in Information Technology at **Birla Institute of Technology, Mesra** (2017-2021).
 
 ### Skills
 

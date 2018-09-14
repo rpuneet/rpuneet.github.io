@@ -19,7 +19,7 @@ Pursuing BE in Information Technology at **Birla Institute of Technology, Mesra*
 - [File Transfer App](https://github.com/rpuneet/The-Video) - A software to transfer files over LAN (used Socket programming).
 - [Directory Manager](https://github.com/rpuneet/The-Episode) - A Web App which visualises directory information.
 - Machine learning Projects
-    - Predict The Criminal - A machin learning model to predict if the given data corresponds to a criminal.
+    - Predict The Criminal - A machine learning model to predict if the given data corresponds to a criminal.
 
 ### Social Profiles
 

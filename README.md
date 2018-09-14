@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Puneet Rai
 
-You can use the [editor on GitHub](https://github.com/rpuneet/rpuneet.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Pursuing BE in Information Technology at **Birla Institute of Technology, Mesra** (2017-2021)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skills
 
-### Markdown
+- Competetive Programming
+    - Programming Languages
+        - C
+        - C++
+        - Python
+            - Dash (By Plotly)
+            - Pygame
+        - Java (Basics)
+- Machine Learning.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects
 
-```markdown
-Syntax highlighted code block
+- [Project Handler](https://github.com/rpuneet/Project-Handler) - A software which helps to organise and build projects.
+- [Pacman](https://github.com/rpuneet/The-Game) - A game of Pacman using pygame.
+- [File Transfer App](https://github.com/rpuneet/The-Video) - A software to transfer files over LAN (used Socket programming).
+- [Directory Manager](https://github.com/rpuneet/The-Episode) - A Web App which visualises directory information.
+- Machine learning Projects
+    - Predict The Criminal - A machin learning model to predict if the given data corresponds to a criminal.
 
-# Header 1
-## Header 2
-### Header 3
+### Social Profiles
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rpuneet/rpuneet.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Facebook](https://www.facebook.com/puneet.rai.98)
+- [Instagram](https://www.instagram.com/rpuneet/)
+- [Codechef](https://www.codechef.com/users/puneetrai04)
+- [Codeforces](http://codeforces.com/profile/puneetrai04)
+- [Hackerearth](https://www.hackerearth.com/@puneet.rai.98)

@@ -23,6 +23,8 @@ Pursuing BE in Information Technology at **Birla Institute of Technology, Mesra*
 
 ### Social Profiles
 
+- [LinkedIn](https://www.linkedin.com/in/puneet-rai-638987158/)
+- [Github](https://github.com/rpuneet/)
 - [Facebook](https://www.facebook.com/puneet.rai.98)
 - [Instagram](https://www.instagram.com/rpuneet/)
 - [Codechef](https://www.codechef.com/users/puneetrai04)
